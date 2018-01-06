@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1fbf0758b45aca042b22705c4435cb12
+timeCreated: 1490504160
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Plastic Surgery
+  fontNames:
+  - Plastic Surgery
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fbf2a009fb115f04e924c175f7703a02
+timeCreated: 1490505855
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mafia Mix
+  fontNames:
+  - Mafia Mix
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
